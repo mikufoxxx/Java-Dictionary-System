@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java-Dictionary-System-Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Dictionary_System_Server_jar</output-path>
+    <root id="archive" name="Java-Dictionary-System-Server.jar">
+      <element id="module-output" name="Java-Dictionary-System-Server" />
+    </root>
+  </artifact>
+</component>
