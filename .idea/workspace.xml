@@ -10,32 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="614ae063-8ab2-49b7-83d9-857548e42145" name="变更" comment="字典项目-服务器客户端tcp连接">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Java_Dictionary_System_Client_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Java_Dictionary_System_Server_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Client/Java-Dictionary-System-Client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Client/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Client/src/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Client/src/client/ClientWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Client/src/client/CloseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Client/src/server/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Client/src/server/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Client/src/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Client/src/server/ServerWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Server/Java-Dictionary-System-Server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Server/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Server/src/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Server/src/client/ClientWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Server/src/client/CloseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Server/src/server/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Server/src/server/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Server/src/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Dictionary-System-Server/src/server/ServerWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SWEN90015 Distributed Systems.001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SWEN90015 Distributed Systems.002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SWEN90015 Distributed Systems.003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SWEN90015 Distributed Systems.004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SWEN90015 Distributed Systems.005.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,36 +82,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java项目/1/小项目练习/java dic/Java-Dictionary-System-Server&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "D:/java项目/1/小项目练习/java dic/Java-Dictionary-System-Server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java项目\1\小项目练习\java dic\Java-Dictionary-System-Server" />
       <recent name="D:\java项目\1\小项目练习\java dic\Java-Dictionary-System-Client" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java项目\1\小项目练习\java dic\pic" />
       <recent name="D:\java项目\1\小项目练习\java dic" />
       <recent name="D:\java项目\1\小项目练习\java dic\src" />
     </key>
@@ -247,7 +230,7 @@
       <workItem from="1693328239039" duration="13740000" />
       <workItem from="1693384246873" duration="543000" />
       <workItem from="1693384801752" duration="3976000" />
-      <workItem from="1693394668061" duration="402000" />
+      <workItem from="1693394668061" duration="1081000" />
     </task>
     <task id="LOCAL-00001" summary="字典项目-服务器客户端tcp连接">
       <created>1692861353483</created>
@@ -263,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692862012572</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="完成">
+      <created>1693395116145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693395116145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +261,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="字典项目-服务器客户端tcp连接" />
-    <option name="LAST_COMMIT_MESSAGE" value="字典项目-服务器客户端tcp连接" />
+    <MESSAGE value="完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
